@@ -1,0 +1,15 @@
+{
+  "name": "electron_quotes",
+  "version": "1.0.0",
+  "description": "My first electron app, it pulls quotes from an API and displays it in an elegant way",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Assassinumz (https://assassinumz.github.io)",
+  "dependencies": {
+    "electron": "^9.1.1",
+    "jquery": "^3.5.1",
+    "request": "^2.88.2"
+  }
+}
